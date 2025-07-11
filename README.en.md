@@ -1,4 +1,4 @@
-<h1 align="center">FireTide</h1>
+<h1 align="center">Angel Crystal</h1>
 
 ### language
 
@@ -34,3 +34,4 @@ Alternatively, you can get the HTML file directly from the Release.
 3. Submit the code
 4. You can use relevant Git tools or text editors to edit.
 5. If the modification fails, you are welcome to return and download it again.
+6. Join Angelcrystal Cafe for a  Chat
