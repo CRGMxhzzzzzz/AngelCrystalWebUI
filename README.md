@@ -1,4 +1,4 @@
-<h1 align="center">FireTide</h1>
+<h1 align="center">Angel Crystal</h1>
 
 ### 语言
 
@@ -33,5 +33,5 @@
 3.  修改后可上传Release分支
 4.  可以使用相关的Git工具或文本编辑器编辑
 5.  修改废了就欢迎回来重新下载
-
+6.  加入AngelCrystal咖啡厅交流
 
